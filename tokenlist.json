@@ -1,0 +1,20 @@
+{
+  "name": "amazon Token List",
+  "logoURI": "https://raw.githubusercontent.com/amazoneco852-lgtm/eco-token-list/refs/heads/main/0x225429a1A364eC5D533661DD9f311FD5CF91F75b.png",
+  "keywords": ["ECO", "amazon", "token"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x225429a1A364eC5D533661DD9f311FD5CF91F75b",
+      "name": "amazon",
+      "symbol": "ECO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/amazoneco852-lgtm/eco-token-list/refs/heads/main/0x225429a1A364eC5D533661DD9f311FD5CF91F75b.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
